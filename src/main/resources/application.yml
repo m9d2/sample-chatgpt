@@ -1,0 +1,9 @@
+openai:
+  api-key: "sk-"
+  proxy:
+    enable: true
+    type: http
+    hostname: 127.0.0.1
+    port: 1087
+  connect-timeout: 60000
+  read-timeout: 60000
